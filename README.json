@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CLDR currency definitions",
+          "description": "🆓 Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T00:46:23Z",
+            "owner": "unicode-org",
+            "repo": "cldr",
+            "stars": 1128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Falsehoods about IBANs",
+          "description": "International Bank Account Numbers are not international.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-03T19:45:38Z",
+            "owner": "globalcitizen",
+            "repo": "php-iban",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🆓 A PHP 5.4+ tax management library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-13T08:59:21Z",
+            "owner": "commerceguys",
+            "repo": "tax",
+            "stars": 286
+          }
+        }
+      ],
+      "title": "Business"
+    },
+    {
+      "description": "On character encoding, string formatting, unicode and internationalization.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Big List of Naughty Strings",
+          "description": "🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-18T03:26:59Z",
+            "owner": "minimaxir",
+            "repo": "big-list-of-naughty-strings",
+            "stars": 47704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Unicode",
+          "description": "A curated list of delightful Unicode tidbits, packages and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-01T15:20:50Z",
+            "owner": "jagracey",
+            "repo": "Awesome-Unicode",
+            "stars": 982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i18n Testing Data",
+          "description": "🆓 Compilation of real-word international and diverse name data for unit testing and QA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-23T21:34:12Z",
+            "owner": "patch",
+            "repo": "i18n-testing",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Internationalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Falsehoods about Phone Numbers",
+          "description": "Covers phone numbers, their representation and meaning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-01T22:58:33Z",
+            "owner": "google",
+            "repo": "libphonenumber",
+            "stars": 18198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for C#, Objective-C, Python and PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-01T22:58:33Z",
+            "owner": "google",
+            "repo": "libphonenumber",
+            "stars": 18198
+          }
+        }
+      ],
+      "title": "Phone Numbers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🆓 A PHP 5.4+ addressing library, powered by Google's dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-15T07:05:36Z",
+            "owner": "commerceguys",
+            "repo": "addressing",
+            "stars": 967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-15T06:57:49Z",
+            "owner": "google",
+            "repo": "libaddressinput",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🆓 Python module to parse, normalize and render postal addresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-18T03:08:25Z",
+            "owner": "scaleway",
+            "repo": "postal-address",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🆓 Go library to validate and format addresses using Google's dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-23T01:54:40Z",
+            "owner": "Boostport",
+            "repo": "address",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "Postal Addresses"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This list gathered some popularity in social medias over the past few years. See it being discussed and mentioned elsewhere.\nThe header image is based on a modified photo taken in February 2010 by Iza Bella, distributed under a Creative Commons BY-SA 2.0 UK license.\n[1]: Notebooks, 1914-1916 (Liveright, 2022) - source: page 14e. [↑]",
+      "items": [],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:00.795Z",
+    "original_repository": "kdeldycke/awesome-falsehood",
+    "original_repository_sha": "20f4eb4346471645d211bbfe8c11f583787df070",
+    "enhanced_repository": "enhansome/enhansome-falsehood",
+    "enhanced_repository_description": null,
+    "title": "Awesome falsehood with stars"
+  }
+}
