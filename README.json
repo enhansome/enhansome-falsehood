@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T00:46:23Z",
+            "last_commit": "2026-08-13T19:16:29Z",
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1128
@@ -62,7 +62,7 @@
             "last_commit": "2024-04-18T03:26:59Z",
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47704
+            "stars": 47705
           }
         },
         {
@@ -107,10 +107,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-01T22:58:33Z",
+            "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18198
+            "stars": 18200
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-01T22:58:33Z",
+            "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18198
+            "stars": 18200
           }
         }
       ],
@@ -204,7 +204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:00.795Z",
+    "last_updated": "2026-08-13T19:32:00.653Z",
     "original_repository": "kdeldycke/awesome-falsehood",
     "original_repository_sha": "20f4eb4346471645d211bbfe8c11f583787df070",
     "enhanced_repository": "enhansome/enhansome-falsehood",
