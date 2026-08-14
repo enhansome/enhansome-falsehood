@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T19:16:29Z",
+            "last_commit": "2026-08-14T16:55:23Z",
             "owner": "unicode-org",
             "repo": "cldr",
-            "stars": 1128
+            "stars": 1129
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18200
+            "stars": 18204
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18200
+            "stars": 18204
           }
         }
       ],
@@ -204,9 +204,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:32:00.653Z",
+    "last_updated": "2026-08-14T19:25:20.171Z",
     "original_repository": "kdeldycke/awesome-falsehood",
-    "original_repository_sha": "20f4eb4346471645d211bbfe8c11f583787df070",
+    "original_repository_sha": "8c968a36671972498de9720462f8cc0ee0743382",
     "enhanced_repository": "enhansome/enhansome-falsehood",
     "enhanced_repository_description": null,
     "title": "Awesome falsehood with stars"

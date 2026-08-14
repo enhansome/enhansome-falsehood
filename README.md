@@ -28,7 +28,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,334 | 🐛 99 | 📅 2026-06-30 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,732 | 🐛 100 | 📅 2026-06-30 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
 
 E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
@@ -76,8 +76,8 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Business
 
-* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,128 | 🐛 243 | 🌐 Java | 📅 2026-08-13 - 🆓 Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
-* [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) ⭐ 507 | 🐛 6 | 🌐 PHP | 📅 2025-12-03 - International Bank Account Numbers are not international.
+* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,129 | 🐛 242 | 🌐 Java | 📅 2026-08-14 - 🆓 Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+* [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) ⭐ 507 | 🐛 7 | 🌐 PHP | 📅 2025-12-03 - International Bank Account Numbers are not international.
 * [`tax`](https://github.com/commerceguys/tax) ⭐ 286 | 🐛 11 | 🌐 PHP | 📅 2026-07-13 - 🆓 A PHP 5.4+ tax management library.
 * [Falsehoods about Online Shopping](https://wiesmann.codiferes.net/wordpress/archives/22201) - Covers prices, currencies and inventory.
 * [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
@@ -194,8 +194,8 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Phone Numbers
 
-* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,200 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - Covers phone numbers, their representation and meaning.
-* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,200 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 918 | 🐛 7 | 🌐 C# | 📅 2026-08-13, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,384 | 🐛 0 | 🌐 Objective-C | 📅 2026-08-04, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,765 | 🐛 11 | 🌐 Python | 📅 2026-08-01 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,049 | 🐛 2 | 🌐 PHP | 📅 2026-08-03.
+* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,204 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - Covers phone numbers, their representation and meaning.
+* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,204 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 918 | 🐛 1 | 🌐 C# | 📅 2026-08-14, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,384 | 🐛 0 | 🌐 Objective-C | 📅 2026-08-04, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,766 | 🐛 11 | 🌐 Python | 📅 2026-08-14 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,048 | 🐛 2 | 🌐 PHP | 📅 2026-08-03.
 
 ## Postal Addresses
 
@@ -275,13 +275,13 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,614 | 🐛 4 | 📅 2026-08-10 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,612 | 🐛 4 | 📅 2026-08-14 first.
 
 ## Footnotes
 
 This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md) ⭐ 9 | 🐛 3 | 📅 2026-08-10.
 
-The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,614 | 🐛 4 | 📅 2026-08-10 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,612 | 🐛 4 | 📅 2026-08-14 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 <!--lint disable no-undefined-references-->
 
@@ -289,4 +289,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
