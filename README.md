@@ -28,7 +28,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,361 | 🐛 102 | 📅 2026-08-18 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
 
 E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
@@ -194,12 +194,12 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Phone Numbers
 
-* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,217 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - Covers phone numbers, their representation and meaning.
-* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,217 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 917 | 🐛 1 | 🌐 C# | 📅 2026-08-14, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,384 | 🐛 0 | 🌐 Objective-C | 📅 2026-08-15, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,766 | 🐛 11 | 🌐 Python | 📅 2026-08-14 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,048 | 🐛 2 | 🌐 PHP | 📅 2026-08-15.
+* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,218 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - Covers phone numbers, their representation and meaning.
+* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,218 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 917 | 🐛 3 | 🌐 C# | 📅 2026-08-18, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,384 | 🐛 0 | 🌐 Objective-C | 📅 2026-08-15, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,766 | 🐛 11 | 🌐 Python | 📅 2026-08-14 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,048 | 🐛 2 | 🌐 PHP | 📅 2026-08-15.
 
 ## Postal Addresses
 
-* [`addressing`](https://github.com/commerceguys/addressing) ⭐ 967 | 🐛 20 | 🌐 PHP | 📅 2026-04-15 - 🆓 A PHP 5.4+ addressing library, powered by Google's dataset.
+* [`addressing`](https://github.com/commerceguys/addressing) ⭐ 967 | 🐛 20 | 🌐 PHP | 📅 2026-08-19 - 🆓 A PHP 5.4+ addressing library, powered by Google's dataset.
 * [`libaddressinput`](https://github.com/google/libaddressinput) ⭐ 623 | 🐛 46 | 🌐 C++ | 📅 2026-05-15 - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
 * [`postal-address`](https://github.com/scaleway/postal-address) ⭐ 184 | 🐛 15 | 🌐 Python | 📅 2023-10-18 - 🆓 Python module to parse, normalize and render postal addresses.
 * [`address`](https://github.com/Boostport/address) ⭐ 96 | 🐛 0 | 🌐 Go | 📅 2026-07-23 - 🆓 Go library to validate and format addresses using Google's dataset.
@@ -275,13 +275,13 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,621 | 🐛 4 | 📅 2026-08-14 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,624 | 🐛 4 | 📅 2026-08-14 first.
 
 ## Footnotes
 
 This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md) ⭐ 9 | 🐛 3 | 📅 2026-08-10.
 
-The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,621 | 🐛 4 | 📅 2026-08-14 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,624 | 🐛 4 | 📅 2026-08-14 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 <!--lint disable no-undefined-references-->
 
@@ -289,4 +289,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
