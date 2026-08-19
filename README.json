@@ -12,10 +12,10 @@
             "archived": false,
             "id": 103948672,
             "language": "Java",
-            "last_commit": "2026-08-18T18:30:28Z",
+            "last_commit": "2026-08-19T17:01:22Z",
             "owner": "unicode-org",
             "repo": "cldr",
-            "stars": 1131
+            "stars": 1132
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18218
+            "stars": 18220
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18218
+            "stars": 18220
           }
         }
       ],
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-19T11:54:19Z",
             "owner": "commerceguys",
             "repo": "addressing",
-            "stars": 967
+            "stars": 968
           }
         },
         {
@@ -206,7 +206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:18.554Z",
+    "last_updated": "2026-08-19T18:59:47.572Z",
     "original_repository": "kdeldycke/awesome-falsehood",
     "original_repository_id": 67687706,
     "original_repository_sha": "8c968a36671972498de9720462f8cc0ee0743382",
