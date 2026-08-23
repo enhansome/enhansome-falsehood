@@ -12,7 +12,7 @@
             "archived": false,
             "id": 103948672,
             "language": "Java",
-            "last_commit": "2026-08-21T00:02:57Z",
+            "last_commit": "2026-08-22T23:39:22Z",
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1132
@@ -150,7 +150,7 @@
             "archived": false,
             "id": 21418609,
             "language": "PHP",
-            "last_commit": "2026-08-22T14:29:07Z",
+            "last_commit": "2026-08-23T14:27:50Z",
             "owner": "commerceguys",
             "repo": "addressing",
             "stars": 969
@@ -198,7 +198,7 @@
             "last_commit": "2026-07-23T01:54:40Z",
             "owner": "Boostport",
             "repo": "address",
-            "stars": 96
+            "stars": 97
           }
         }
       ],
@@ -206,7 +206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:54:54.310Z",
+    "last_updated": "2026-08-23T18:53:50.510Z",
     "original_repository": "kdeldycke/awesome-falsehood",
     "original_repository_id": 67687706,
     "original_repository_sha": "8c968a36671972498de9720462f8cc0ee0743382",
