@@ -28,7 +28,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,261 | 🐛 106 | 📅 2026-08-21 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,505 | 🐛 106 | 📅 2026-08-21 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
 
 E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
@@ -124,11 +124,11 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Emails
 
+* [`libvldmail`](https://github.com/dertuxmalwieder/libvldmail) ⭐ 68 | 🐛 1 | 🌐 C | 📅 2026-08-21 - 🆓 A library that implements RFC-based checks for e-mail addresses.
 * [Falsehoods about Email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email) - On addresses, content and delivery.
 * [I Knew How to Validate an Email Address Until I Read the RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) - Provides intricate examples that are unsuspected valid email addresses according the RFC-822.
 * [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - Presentation of edge-case email addresses and why you should not use regex to parse them.
 * [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html) - A summary of the various, surprising things that are allowed in an email address.
-* [`libvldmail`](https://github.com/dertuxmalwieder/libvldmail) ⭐ 68 | 🐛 1 | 🌐 C | 📅 2026-08-21 - 🆓 A library that implements RFC-based checks for e-mail addresses.
 
 ## Geography
 
@@ -157,7 +157,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 On character encoding, string formatting, unicode and internationalization.
 
-* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,708 | 🐛 108 | 🌐 Python | 📅 2024-04-18 - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,709 | 🐛 108 | 🌐 Python | 📅 2024-04-18 - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 * [Awesome Unicode](https://github.com/jagracey/Awesome-Unicode) ⭐ 982 | 🐛 10 | 🌐 JavaScript | 📅 2022-07-01 - A curated list of delightful Unicode tidbits, packages and resources.
 * [i18n Testing Data](https://github.com/patch/i18n-testing) ⭐ 69 | 🐛 2 | 📅 2026-04-23 - 🆓 Compilation of real-word international and diverse name data for unit testing and QA.
 * [Falsehoods about Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - Translating a software from English is not as straightforward as it seems to be.
@@ -194,13 +194,13 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Phone Numbers
 
-* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,224 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - Covers phone numbers, their representation and meaning.
-* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,224 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 917 | 🐛 1 | 🌐 C# | 📅 2026-08-20, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,385 | 🐛 0 | 🌐 Objective-C | 📅 2026-08-15, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,766 | 🐛 11 | 🌐 Python | 📅 2026-08-14 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,049 | 🐛 3 | 🌐 PHP | 📅 2026-08-15.
+* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,225 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - Covers phone numbers, their representation and meaning.
+* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,225 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 917 | 🐛 8 | 🌐 C# | 📅 2026-08-24, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,385 | 🐛 0 | 🌐 Objective-C | 📅 2026-08-15, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,766 | 🐛 11 | 🌐 Python | 📅 2026-08-14 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,049 | 🐛 3 | 🌐 PHP | 📅 2026-08-15.
 
 ## Postal Addresses
 
 * [`addressing`](https://github.com/commerceguys/addressing) ⭐ 969 | 🐛 8 | 🌐 PHP | 📅 2026-08-23 - 🆓 A PHP 5.4+ addressing library, powered by Google's dataset.
-* [`libaddressinput`](https://github.com/google/libaddressinput) ⭐ 623 | 🐛 46 | 🌐 C++ | 📅 2026-05-15 - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
+* [`libaddressinput`](https://github.com/google/libaddressinput) ⭐ 624 | 🐛 46 | 🌐 C++ | 📅 2026-05-15 - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
 * [`postal-address`](https://github.com/scaleway/postal-address) ⭐ 184 | 🐛 15 | 🌐 Python | 📅 2023-10-18 - 🆓 Python module to parse, normalize and render postal addresses.
 * [`address`](https://github.com/Boostport/address) ⭐ 97 | 🐛 0 | 🌐 Go | 📅 2026-07-23 - 🆓 Go library to validate and format addresses using Google's dataset.
 * [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers streets, postal codes, buildings, cities and countries.
@@ -224,7 +224,7 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Software Engineering
 
-* [Falsehoods about Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) ⭐ 71 | 🐛 1 | 📅 2021-02-18 - Attributing an identity to a software release might be harder than thought.
+* [Falsehoods about Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) ⭐ 70 | 🐛 1 | 📅 2021-02-18 - Attributing an identity to a software release might be harder than thought.
 * [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 * [Falsehoods about Undefined Behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/) - Invoking undefined behavior can cause *anything* to happen, for a much broader definition of "anything" than one might think.
 * [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
@@ -275,13 +275,13 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,641 | 🐛 4 | 📅 2026-08-14 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,645 | 🐛 4 | 📅 2026-08-14 first.
 
 ## Footnotes
 
-This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md) ⭐ 9 | 🐛 2 | 📅 2026-08-20.
+This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md) ⭐ 9 | 🐛 2 | 📅 2026-08-24.
 
-The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,641 | 🐛 4 | 📅 2026-08-14 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,645 | 🐛 4 | 📅 2026-08-14 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 <!--lint disable no-undefined-references-->
 
@@ -289,4 +289,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
