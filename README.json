@@ -12,7 +12,7 @@
             "archived": false,
             "id": 103948672,
             "language": "Java",
-            "last_commit": "2026-08-27T02:23:14Z",
+            "last_commit": "2026-08-27T17:06:07Z",
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1133
@@ -108,7 +108,7 @@
             "last_commit": "2024-04-18T03:26:59Z",
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47712
+            "stars": 47711
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2026-08-26T12:21:11Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18234
+            "stars": 18240
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-26T12:21:11Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18234
+            "stars": 18240
           }
         }
       ],
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:35.699Z",
+    "last_updated": "2026-08-28T02:13:40.001Z",
     "original_repository_info": {
       "archived": false,
       "id": 67687706,
@@ -298,7 +298,7 @@
       "last_commit": "2026-08-14T13:32:02Z",
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27651
+      "stars": 27652
     },
     "original_repository_sha": "8c968a36671972498de9720462f8cc0ee0743382",
     "enhanced_repository": "enhansome/enhansome-falsehood",
