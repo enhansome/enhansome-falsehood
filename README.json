@@ -75,7 +75,7 @@
             "open_issues": 11,
             "owner": "commerceguys",
             "repo": "tax",
-            "stars": 286,
+            "stars": 287,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -98,8 +98,8 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T20:57:43Z",
-            "open_issues": 19,
+            "last_commit": "2026-08-30T19:51:50Z",
+            "open_issues": 16,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 85,
@@ -137,7 +137,7 @@
             "open_issues": 1,
             "owner": "dertuxmalwieder",
             "repo": "libvldmail",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "c",
               "email-validation",
@@ -168,7 +168,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47712,
+            "stars": 47711,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18241,
+            "stars": 18240,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18241,
+            "stars": 18240,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:02:03.955Z",
+    "last_updated": "2026-08-30T21:16:56.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27653,
+      "stars": 27656,
       "topics": [
         "awesome",
         "awesome-list",
