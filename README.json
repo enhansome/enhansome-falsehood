@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T22:01:12Z",
-            "open_issues": 254,
+            "last_commit": "2026-09-01T20:58:10Z",
+            "open_issues": 256,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1133,
@@ -168,7 +168,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47708,
+            "stars": 47705,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:56:44.370Z",
+    "last_updated": "2026-09-01T21:10:25.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -454,10 +454,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-14T13:32:02Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27656,
+      "stars": 27657,
       "topics": [
         "awesome",
         "awesome-list",
