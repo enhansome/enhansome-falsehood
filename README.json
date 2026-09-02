@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T20:58:10Z",
-            "open_issues": 256,
+            "last_commit": "2026-09-02T21:02:30Z",
+            "open_issues": 253,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1133,
@@ -168,7 +168,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47705,
+            "stars": 47706,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -252,11 +252,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T07:32:25Z",
+            "last_commit": "2026-09-01T23:03:14Z",
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18243,
+            "stars": 18250,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -273,11 +273,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T07:32:25Z",
+            "last_commit": "2026-09-01T23:03:14Z",
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18243,
+            "stars": 18250,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -346,7 +346,7 @@
             "open_issues": 15,
             "owner": "scaleway",
             "repo": "postal-address",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "address-input",
               "address-parser",
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:10:25.146Z",
+    "last_updated": "2026-09-02T21:10:26.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 5,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27657,
+      "stars": 27659,
       "topics": [
         "awesome",
         "awesome-list",
