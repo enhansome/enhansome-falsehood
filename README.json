@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T19:46:17Z",
-            "open_issues": 255,
+            "last_commit": "2026-09-06T17:35:27Z",
+            "open_issues": 256,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1133,
@@ -98,8 +98,8 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T10:49:38Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-06T17:15:40Z",
+            "open_issues": 15,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 85,
@@ -168,7 +168,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47712,
+            "stars": 47713,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18258,
+            "stars": 18260,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18258,
+            "stars": 18260,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:30:53.174Z",
+    "last_updated": "2026-09-06T20:33:53.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 5,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27666,
+      "stars": 27667,
       "topics": [
         "awesome",
         "awesome-list",
