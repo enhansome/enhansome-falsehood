@@ -15,7 +15,7 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T17:35:27Z",
+            "last_commit": "2026-09-07T14:40:35Z",
             "open_issues": 256,
             "owner": "unicode-org",
             "repo": "cldr",
@@ -98,8 +98,8 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T17:15:40Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-07T20:41:22Z",
+            "open_issues": 16,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 85,
@@ -168,7 +168,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47713,
+            "stars": 47714,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18260,
+            "stars": 18261,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18260,
+            "stars": 18261,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:33:53.180Z",
+    "last_updated": "2026-09-07T21:37:58.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 5,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27667,
+      "stars": 27668,
       "topics": [
         "awesome",
         "awesome-list",
