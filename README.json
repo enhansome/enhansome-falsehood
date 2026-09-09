@@ -15,11 +15,11 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T18:09:41Z",
-            "open_issues": 256,
+            "last_commit": "2026-09-08T23:33:49Z",
+            "open_issues": 261,
             "owner": "unicode-org",
             "repo": "cldr",
-            "stars": 1133,
+            "stars": 1135,
             "topics": [
               "cldr",
               "unicode"
@@ -168,7 +168,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47713,
+            "stars": 47714,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -252,11 +252,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T23:03:14Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-09T11:31:08Z",
+            "open_issues": 121,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18261,
+            "stars": 18262,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -273,11 +273,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T23:03:14Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-09T11:31:08Z",
+            "open_issues": 121,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18261,
+            "stars": 18262,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:17:05.467Z",
+    "last_updated": "2026-09-09T21:02:05.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 5,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27672,
+      "stars": 27673,
       "topics": [
         "awesome",
         "awesome-list",
