@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T20:58:02Z",
-            "open_issues": 264,
+            "last_commit": "2026-09-13T21:35:57Z",
+            "open_issues": 266,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1137,
@@ -98,7 +98,7 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T04:40:23Z",
+            "last_commit": "2026-09-14T20:10:56Z",
             "open_issues": 14,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
@@ -256,7 +256,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18266,
+            "stars": 18268,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18266,
+            "stars": 18268,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T20:58:23.407Z",
+    "last_updated": "2026-09-14T21:55:45.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 5,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27679,
+      "stars": 27683,
       "topics": [
         "awesome",
         "awesome-list",
