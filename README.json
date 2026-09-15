@@ -15,11 +15,11 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T21:35:57Z",
-            "open_issues": 266,
+            "last_commit": "2026-09-15T18:59:11Z",
+            "open_issues": 269,
             "owner": "unicode-org",
             "repo": "cldr",
-            "stars": 1137,
+            "stars": 1138,
             "topics": [
               "cldr",
               "unicode"
@@ -43,7 +43,7 @@
             "open_issues": 6,
             "owner": "globalcitizen",
             "repo": "php-iban",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "checksums",
               "ecbs",
@@ -98,7 +98,7 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T20:10:56Z",
+            "last_commit": "2026-09-15T20:39:15Z",
             "open_issues": 14,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
@@ -253,10 +253,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T02:59:07Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18268,
+            "stars": 18270,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -274,10 +274,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T02:59:07Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18268,
+            "stars": 18270,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:55:45.034Z",
+    "last_updated": "2026-09-15T21:33:08.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 5,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27683,
+      "stars": 27686,
       "topics": [
         "awesome",
         "awesome-list",
