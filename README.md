@@ -28,7 +28,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,607 | 🐛 106 | 📅 2026-09-02 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,995 | 🐛 106 | 📅 2026-09-02 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
 
 E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
@@ -76,7 +76,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Business
 
-* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,145 | 🐛 266 | 🌐 Java | 📅 2026-09-21 - 🆓 Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,145 | 🐛 264 | 🌐 Java | 📅 2026-09-22 - 🆓 Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 * [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) ⭐ 511 | 🐛 6 | 🌐 PHP | 📅 2026-09-12 - International Bank Account Numbers are not international.
 * [`tax`](https://github.com/commerceguys/tax) ⭐ 287 | 🐛 11 | 🌐 PHP | 📅 2026-07-13 - 🆓 A PHP 5.4+ tax management library.
 * [Falsehoods about Online Shopping](https://wiesmann.codiferes.net/wordpress/archives/22201) - Covers prices, currencies and inventory.
@@ -90,7 +90,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Cryptocurrency
 
-* [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) ⭐ 85 | 🐛 15 | 🌐 Java | 📅 2026-09-20 - A list of mistaken perspectives on Bitcoin.
+* [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) ⭐ 85 | 🐛 16 | 🌐 Java | 📅 2026-09-22 - A list of mistaken perspectives on Bitcoin.
 * [Falsehoods about Ethereum](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - Misconceptions and common pitfalls in contract programming.
 
 ## Dates and Time
@@ -135,6 +135,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 * [Falsehoods about Geography](https://wiesmann.codiferes.net/wordpress/archives/15187) - Takes on places, their names and locations.
 * [Falsehoods about Maps](https://web.archive.org/web/20250516080728/http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
 * [Falsehoods about Weather](https://shkspr.mobi/blog/2024/06/falsehoods-programmers-believe-about-weather/) - Weather is location-dependent, and so full of edge-cases.
+* [Enclave and exclave](https://en.wikipedia.org/wiki/Enclave_and_exclave) - “Residing in an enclave within another country has often involved difficulties in such areas as passage rights, importing goods, currency, provision of utilities and health services, and host nation cooperation.” None of these attributes follows from a country code.
 * [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - A guide for geospatial practitioners on diagnosing and fixing common issues with coordinate systems.
 * [Top 5 most insane kanji place names in Japan](https://web.archive.org/web/20210310050932/https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%E3%80%90weird-top-five%E3%80%91/) - “There's one special group of kanji that's hard even for Japanese people to read: place names.”
 
@@ -157,8 +158,8 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 On character encoding, string formatting, unicode and internationalization.
 
-* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,715 | 🐛 108 | 🌐 Python | 📅 2024-04-18 - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
-* [Awesome Unicode](https://github.com/jagracey/Awesome-Unicode) ⭐ 984 | 🐛 11 | 🌐 JavaScript | 📅 2022-07-01 - A curated list of delightful Unicode tidbits, packages and resources.
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,716 | 🐛 108 | 🌐 Python | 📅 2024-04-18 - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
+* [Awesome Unicode](https://github.com/jagracey/Awesome-Unicode) ⭐ 985 | 🐛 11 | 🌐 JavaScript | 📅 2022-07-01 - A curated list of delightful Unicode tidbits, packages and resources.
 * [i18n Testing Data](https://github.com/patch/i18n-testing) ⭐ 69 | 🐛 2 | 📅 2026-04-23 - 🆓 Compilation of real-word international and diverse name data for unit testing and QA.
 * [Falsehoods about Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - Translating a software from English is not as straightforward as it seems to be.
 * [Falsehoods about Language](https://www.lexiconista.com/falsehoods-about-languages/) - Additional cases to complement the previous article.
@@ -194,13 +195,13 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Phone Numbers
 
-* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,278 | 🐛 120 | 🌐 C++ | 📅 2026-09-10 - Covers phone numbers, their representation and meaning.
-* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,278 | 🐛 120 | 🌐 C++ | 📅 2026-09-10 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 921 | 🐛 7 | 🌐 C# | 📅 2026-09-20, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,384 | 🐛 0 | 🌐 Objective-C | 📅 2026-09-17, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,774 | 🐛 11 | 🌐 Python | 📅 2026-09-21 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,056 | 🐛 3 | 🌐 PHP | 📅 2026-09-10.
+* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,279 | 🐛 120 | 🌐 C++ | 📅 2026-09-10 - Covers phone numbers, their representation and meaning.
+* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,279 | 🐛 120 | 🌐 C++ | 📅 2026-09-10 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 922 | 🐛 7 | 🌐 C# | 📅 2026-09-20, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,384 | 🐛 0 | 🌐 Objective-C | 📅 2026-09-17, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,774 | 🐛 11 | 🌐 Python | 📅 2026-09-21 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,056 | 🐛 3 | 🌐 PHP | 📅 2026-09-10.
 
 ## Postal Addresses
 
 * [`addressing`](https://github.com/commerceguys/addressing) ⭐ 969 | 🐛 10 | 🌐 PHP | 📅 2026-08-23 - 🆓 A PHP 5.4+ addressing library, powered by Google's dataset.
-* [`libaddressinput`](https://github.com/google/libaddressinput) ⭐ 625 | 🐛 47 | 🌐 C++ | 📅 2026-05-15 - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
+* [`libaddressinput`](https://github.com/google/libaddressinput) ⭐ 626 | 🐛 47 | 🌐 C++ | 📅 2026-05-15 - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
 * [`postal-address`](https://github.com/scaleway/postal-address) ⭐ 185 | 🐛 15 | 🌐 Python | 📅 2023-10-18 - 🆓 Python module to parse, normalize and render postal addresses.
 * [`address`](https://github.com/Boostport/address) ⭐ 97 | 🐛 0 | 🌐 Go | 📅 2026-09-05 - 🆓 Go library to validate and format addresses using Google's dataset.
 * [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers streets, postal codes, buildings, cities and countries.
@@ -233,7 +234,7 @@ On character encoding, string formatting, unicode and internationalization.
 * [Falsehoods about Package Managers](https://kdeldycke.github.io/meta-package-manager/falsehoods.html) - Covers package and their managers.
 * [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An attempt to establish a list of falsehoods about testing.
 * [Falsehoods about Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - Why search (including analysis, tokenization, highlighting) is deceptively complex.
-* [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) - A better sourced article on the difficulty of implementing search engines.
+* [What every software engineer should know about search](https://web.archive.org/web/20221207093031/https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) - A better sourced article on the difficulty of implementing search engines.
 * [Falsehoods about Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - Why your pagination algorithm is giving someone (possibly you) a headache.
 * [Falsehoods about garbage collection](https://paul.bone.id.au/blog/2018/10/19/gc-falsehoods/) - Misconceptions about the predictability and performance of garbage collection.
 * [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - Diversity of file-systems and OSes makes file paths a little harder than we might think of.
@@ -275,13 +276,13 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,712 | 🐛 6 | 📅 2026-08-14 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,715 | 🐛 3 | 📅 2026-09-22 first.
 
 ## Footnotes
 
-This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md) ⭐ 9 | 🐛 2 | 📅 2026-09-21.
+This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md) ⭐ 9 | 🐛 2 | 📅 2026-09-22.
 
-The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,712 | 🐛 6 | 📅 2026-08-14 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,715 | 🐛 3 | 📅 2026-09-22 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 <!--lint disable no-undefined-references-->
 
@@ -289,4 +290,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
