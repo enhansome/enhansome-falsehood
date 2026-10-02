@@ -15,11 +15,11 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T18:28:43Z",
-            "open_issues": 274,
+            "last_commit": "2026-10-02T22:09:38Z",
+            "open_issues": 272,
             "owner": "unicode-org",
             "repo": "cldr",
-            "stars": 1148,
+            "stars": 1149,
             "topics": [
               "cldr",
               "unicode"
@@ -252,11 +252,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T04:20:51Z",
+            "last_commit": "2026-10-01T22:59:12Z",
             "open_issues": 120,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18295,
+            "stars": 18298,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -273,11 +273,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T04:20:51Z",
+            "last_commit": "2026-10-01T22:59:12Z",
             "open_issues": 120,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18295,
+            "stars": 18298,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:48:16.416Z",
+    "last_updated": "2026-10-02T22:23:43.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27743,
+      "stars": 27744,
       "topics": [
         "awesome",
         "awesome-list",
