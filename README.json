@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T00:14:34Z",
-            "open_issues": 273,
+            "last_commit": "2026-10-05T23:33:57Z",
+            "open_issues": 256,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1150,
@@ -168,7 +168,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47726,
+            "stars": 47727,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 120,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18297,
+            "stars": 18298,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 120,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18297,
+            "stars": 18298,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -300,8 +300,8 @@
             "id": 21418609,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-23T14:27:50Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-05T07:44:00Z",
+            "open_issues": 11,
             "owner": "commerceguys",
             "repo": "addressing",
             "stars": 970,
@@ -322,10 +322,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-05-15T06:57:49Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "google",
             "repo": "libaddressinput",
-            "stars": 629,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T21:42:12.946Z",
+    "last_updated": "2026-10-06T00:12:07.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
