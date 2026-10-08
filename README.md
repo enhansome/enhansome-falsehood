@@ -28,7 +28,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,078 | 🐛 106 | 📅 2026-09-02 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,328 | 🐛 106 | 📅 2026-09-02 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
 
 E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
@@ -76,12 +76,13 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Business
 
-* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,150 | 🐛 257 | 🌐 Java | 📅 2026-10-07 - 🆓 Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,151 | 🐛 264 | 🌐 Java | 📅 2026-10-08 - 🆓 Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 * [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) ⭐ 509 | 🐛 6 | 🌐 PHP | 📅 2026-09-26 - International Bank Account Numbers are not international.
 * [`tax`](https://github.com/commerceguys/tax) ⭐ 287 | 🐛 11 | 🌐 PHP | 📅 2026-07-13 - 🆓 A PHP 5.4+ tax management library.
 * [Falsehoods about Online Shopping](https://wiesmann.codiferes.net/wordpress/archives/22201) - Covers prices, currencies and inventory.
 * [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
 * [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
+* [Things Many People Find Too Obvious To Have Told You Already](https://threadreaderapp.com/thread/936615043126370306.html) - Reads like a list of falsehoods about the tech business: “There is no hidden reserve of smart people who know what they're doing, anywhere. Not in government, not in science, not in tech, (…) nowhere.”
 * [Decimal Point Error in Etsy's Accounting System](https://web.archive.org/web/20230615151102/https://old.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - The importance of types in accounting software: missing the decimal point ends up with 100x over-charges.
 * [Twenty five thousand dollars of funny money](https://web.archive.org/web/20250326135824/http://rachelbythebay.com/w/2022/12/02/25k/) - Same error as above at Google Ads, or the danger of separating your pennies from your dollars, where $250 internal coupons turned into $25,000. My advice: [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
 * [“The system can’t handle a billion dollars”](https://xcancel.com/signulll/status/1950294195039838480) - Insane compensation at Meta in the middle of the AI-boom breaks ERPs.
@@ -90,7 +91,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Cryptocurrency
 
-* [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) ⭐ 85 | 🐛 16 | 🌐 Java | 📅 2026-10-04 - A list of mistaken perspectives on Bitcoin.
+* [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) ⭐ 85 | 🐛 16 | 🌐 Java | 📅 2026-10-08 - A list of mistaken perspectives on Bitcoin.
 * [Falsehoods about Ethereum](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - Misconceptions and common pitfalls in contract programming.
 
 ## Dates and Time
@@ -158,8 +159,8 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 On character encoding, string formatting, unicode and internationalization.
 
-* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,729 | 🐛 108 | 🌐 Python | 📅 2024-04-18 - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
-* [Awesome Unicode](https://github.com/jagracey/Awesome-Unicode) ⭐ 985 | 🐛 12 | 🌐 JavaScript | 📅 2022-07-01 - A curated list of delightful Unicode tidbits, packages and resources.
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,730 | 🐛 108 | 🌐 Python | 📅 2024-04-18 - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
+* [Awesome Unicode](https://github.com/jagracey/Awesome-Unicode) ⭐ 986 | 🐛 12 | 🌐 JavaScript | 📅 2022-07-01 - A curated list of delightful Unicode tidbits, packages and resources.
 * [i18n Testing Data](https://github.com/patch/i18n-testing) ⭐ 70 | 🐛 2 | 📅 2026-04-23 - 🆓 Compilation of real-word international and diverse name data for unit testing and QA.
 * [Falsehoods about Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - Translating a software from English is not as straightforward as it seems to be.
 * [Falsehoods about Language](https://www.lexiconista.com/falsehoods-about-languages/) - Additional cases to complement the previous article.
@@ -195,15 +196,15 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Phone Numbers
 
-* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,300 | 🐛 122 | 🌐 C++ | 📅 2026-10-07 - Covers phone numbers, their representation and meaning.
-* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,300 | 🐛 122 | 🌐 C++ | 📅 2026-10-07 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 924 | 🐛 7 | 🌐 C# | 📅 2026-10-02, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,380 | 🐛 0 | 🌐 Objective-C | 📅 2026-09-25, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,774 | 🐛 11 | 🌐 Python | 📅 2026-09-24 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,067 | 🐛 1 | 🌐 PHP | 📅 2026-10-02.
+* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,306 | 🐛 121 | 🌐 C++ | 📅 2026-10-08 - Covers phone numbers, their representation and meaning.
+* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,306 | 🐛 121 | 🌐 C++ | 📅 2026-10-08 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 924 | 🐛 8 | 🌐 C# | 📅 2026-10-08, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,380 | 🐛 0 | 🌐 Objective-C | 📅 2026-10-08, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,774 | 🐛 11 | 🌐 Python | 📅 2026-10-08 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,067 | 🐛 1 | 🌐 PHP | 📅 2026-10-08.
 
 ## Postal Addresses
 
-* [`addressing`](https://github.com/commerceguys/addressing) ⭐ 970 | 🐛 11 | 🌐 PHP | 📅 2026-10-05 - 🆓 A PHP 5.4+ addressing library, powered by Google's dataset.
-* [`libaddressinput`](https://github.com/google/libaddressinput) ⭐ 630 | 🐛 48 | 🌐 C++ | 📅 2026-05-15 - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
+* [`addressing`](https://github.com/commerceguys/addressing) ⭐ 970 | 🐛 12 | 🌐 PHP | 📅 2026-10-05 - 🆓 A PHP 5.4+ addressing library, powered by Google's dataset.
+* [`libaddressinput`](https://github.com/google/libaddressinput) ⭐ 631 | 🐛 48 | 🌐 C++ | 📅 2026-05-15 - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
 * [`postal-address`](https://github.com/scaleway/postal-address) ⭐ 185 | 🐛 15 | 🌐 Python | 📅 2023-10-18 - 🆓 Python module to parse, normalize and render postal addresses.
-* [`address`](https://github.com/Boostport/address) ⭐ 97 | 🐛 0 | 🌐 Go | 📅 2026-09-05 - 🆓 Go library to validate and format addresses using Google's dataset.
+* [`address`](https://github.com/Boostport/address) ⭐ 97 | 🐛 0 | 🌐 Go | 📅 2026-10-08 - 🆓 Go library to validate and format addresses using Google's dataset.
 * [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers streets, postal codes, buildings, cities and countries.
 * [Falsehoods about Residence](https://twitter.com/samphippen/status/813896916534784004) - It's not only about the address itself, but the relationship between a person and its residence.
 * [Letter Delivered Despite No Name, No Address](https://boingboing.net/2016/08/30/letter-sent-to-iceland-farm-wi.html) - Ultimate falsehood about postal addresses: you do not need one.
@@ -290,4 +291,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
