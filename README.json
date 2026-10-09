@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T21:31:48Z",
-            "open_issues": 264,
+            "last_commit": "2026-10-09T13:39:04Z",
+            "open_issues": 265,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1151,
@@ -168,7 +168,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47730,
+            "stars": 47729,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 121,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18306,
+            "stars": 18305,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 121,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18306,
+            "stars": 18305,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -300,8 +300,8 @@
             "id": 21418609,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-05T07:44:00Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-09T10:51:58Z",
+            "open_issues": 11,
             "owner": "commerceguys",
             "repo": "addressing",
             "stars": 970,
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:28:17.545Z",
+    "last_updated": "2026-10-09T22:46:18.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -454,10 +454,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-08T10:30:13Z",
-      "open_issues": 5,
+      "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27759,
+      "stars": 27763,
       "topics": [
         "awesome",
         "awesome-list",
