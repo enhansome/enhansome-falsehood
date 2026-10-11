@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T00:25:15Z",
-            "open_issues": 267,
+            "last_commit": "2026-10-11T13:13:08Z",
+            "open_issues": 268,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1156,
@@ -256,7 +256,7 @@
             "open_issues": 122,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18308,
+            "stars": 18309,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 122,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18308,
+            "stars": 18309,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -325,7 +325,7 @@
             "open_issues": 48,
             "owner": "google",
             "repo": "libaddressinput",
-            "stars": 631,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:53:47.874Z",
+    "last_updated": "2026-10-11T22:10:07.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27767,
+      "stars": 27768,
       "topics": [
         "awesome",
         "awesome-list",
