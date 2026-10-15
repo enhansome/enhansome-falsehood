@@ -19,7 +19,7 @@
             "open_issues": 268,
             "owner": "unicode-org",
             "repo": "cldr",
-            "stars": 1158,
+            "stars": 1157,
             "topics": [
               "cldr",
               "unicode"
@@ -256,7 +256,7 @@
             "open_issues": 122,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18316,
+            "stars": 18317,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 122,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18316,
+            "stars": 18317,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:49:50.685Z",
+    "last_updated": "2026-10-15T21:33:47.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
