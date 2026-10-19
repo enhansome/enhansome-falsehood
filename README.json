@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T17:35:36Z",
-            "open_issues": 271,
+            "last_commit": "2026-10-19T17:23:59Z",
+            "open_issues": 270,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1160,
@@ -72,7 +72,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-14T11:52:17Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "commerceguys",
             "repo": "tax",
             "stars": 287,
@@ -168,7 +168,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47734,
+            "stars": 47735,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -253,10 +253,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T03:43:09Z",
-            "open_issues": 122,
+            "open_issues": 123,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18319,
+            "stars": 18321,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -274,10 +274,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T03:43:09Z",
-            "open_issues": 122,
+            "open_issues": 123,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18319,
+            "stars": 18321,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:55:31.313Z",
+    "last_updated": "2026-10-19T22:30:53.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27780,
+      "stars": 27782,
       "topics": [
         "awesome",
         "awesome-list",
