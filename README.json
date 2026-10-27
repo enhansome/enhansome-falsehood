@@ -15,11 +15,11 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T16:46:19Z",
+            "last_commit": "2026-10-27T18:55:50Z",
             "open_issues": 276,
             "owner": "unicode-org",
             "repo": "cldr",
-            "stars": 1164,
+            "stars": 1165,
             "topics": [
               "cldr",
               "unicode"
@@ -256,7 +256,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18336,
+            "stars": 18335,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18336,
+            "stars": 18335,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:47:42.015Z",
+    "last_updated": "2026-10-27T22:26:51.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27801,
+      "stars": 27802,
       "topics": [
         "awesome",
         "awesome-list",
