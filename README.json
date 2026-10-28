@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T18:55:50Z",
-            "open_issues": 276,
+            "last_commit": "2026-10-28T11:43:08Z",
+            "open_issues": 278,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1165,
@@ -40,10 +40,10 @@
             "language": "PHP",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-26T20:40:10Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "globalcitizen",
             "repo": "php-iban",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "checksums",
               "ecbs",
@@ -256,7 +256,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18335,
+            "stars": 18333,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18335,
+            "stars": 18333,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -325,7 +325,7 @@
             "open_issues": 48,
             "owner": "google",
             "repo": "libaddressinput",
-            "stars": 632,
+            "stars": 633,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T22:26:51.822Z",
+    "last_updated": "2026-10-28T22:44:04.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27802,
+      "stars": 27803,
       "topics": [
         "awesome",
         "awesome-list",
