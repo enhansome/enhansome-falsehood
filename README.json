@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T11:43:08Z",
-            "open_issues": 278,
+            "last_commit": "2026-10-29T15:19:37Z",
+            "open_issues": 280,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1165,
@@ -98,7 +98,7 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T04:51:13Z",
+            "last_commit": "2026-10-29T11:47:34Z",
             "open_issues": 16,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
@@ -168,7 +168,7 @@
             "open_issues": 109,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47720,
+            "stars": 47718,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18333,
+            "stars": 18332,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18333,
+            "stars": 18332,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:44:04.717Z",
+    "last_updated": "2026-10-29T22:52:58.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27803,
+      "stars": 27811,
       "topics": [
         "awesome",
         "awesome-list",
