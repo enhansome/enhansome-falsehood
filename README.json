@@ -15,7 +15,7 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T21:25:23Z",
+            "last_commit": "2026-11-04T23:24:17Z",
             "open_issues": 291,
             "owner": "unicode-org",
             "repo": "cldr",
@@ -168,7 +168,7 @@
             "open_issues": 109,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47719,
+            "stars": 47716,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -252,11 +252,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T09:51:32Z",
-            "open_issues": 123,
+            "last_commit": "2026-11-04T13:29:40Z",
+            "open_issues": 125,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18340,
+            "stars": 18342,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -273,11 +273,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T09:51:32Z",
-            "open_issues": 123,
+            "last_commit": "2026-11-04T13:29:40Z",
+            "open_issues": 125,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18340,
+            "stars": 18342,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T23:31:58.938Z",
+    "last_updated": "2026-11-04T23:48:28.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27822,
+      "stars": 27824,
       "topics": [
         "awesome",
         "awesome-list",
