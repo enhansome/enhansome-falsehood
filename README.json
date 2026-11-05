@@ -15,7 +15,7 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T23:24:17Z",
+            "last_commit": "2026-11-05T03:02:09Z",
             "open_issues": 291,
             "owner": "unicode-org",
             "repo": "cldr",
@@ -39,8 +39,8 @@
             "id": 32118519,
             "language": "PHP",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-26T20:40:10Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-05T17:06:27Z",
+            "open_issues": 6,
             "owner": "globalcitizen",
             "repo": "php-iban",
             "stars": 510,
@@ -168,7 +168,7 @@
             "open_issues": 109,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47716,
+            "stars": 47717,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -186,7 +186,7 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2022-07-01T15:20:50Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "jagracey",
             "repo": "Awesome-Unicode",
             "stars": 990,
@@ -252,11 +252,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T13:29:40Z",
-            "open_issues": 125,
+            "last_commit": "2026-11-05T14:52:11Z",
+            "open_issues": 127,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18342,
+            "stars": 18343,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -273,11 +273,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T13:29:40Z",
-            "open_issues": 125,
+            "last_commit": "2026-11-05T14:52:11Z",
+            "open_issues": 127,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18342,
+            "stars": 18343,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -304,7 +304,7 @@
             "open_issues": 11,
             "owner": "commerceguys",
             "repo": "addressing",
-            "stars": 970,
+            "stars": 971,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:48:28.176Z",
+    "last_updated": "2026-11-05T23:44:38.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27824,
+      "stars": 27826,
       "topics": [
         "awesome",
         "awesome-list",
