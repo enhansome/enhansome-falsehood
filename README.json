@@ -168,7 +168,7 @@
             "open_issues": 109,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47716,
+            "stars": 47715,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18344,
+            "stars": 18346,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18344,
+            "stars": 18346,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:06:15.740Z",
+    "last_updated": "2026-11-08T22:17:51.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27832,
+      "stars": 27836,
       "topics": [
         "awesome",
         "awesome-list",
