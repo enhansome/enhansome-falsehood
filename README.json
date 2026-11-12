@@ -15,11 +15,11 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T19:18:39Z",
-            "open_issues": 289,
+            "last_commit": "2026-11-12T14:22:30Z",
+            "open_issues": 288,
             "owner": "unicode-org",
             "repo": "cldr",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "cldr",
               "unicode"
@@ -168,7 +168,7 @@
             "open_issues": 109,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47718,
+            "stars": 47719,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18349,
+            "stars": 18351,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18349,
+            "stars": 18351,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T00:53:08.469Z",
+    "last_updated": "2026-11-12T23:43:24.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27851,
+      "stars": 27856,
       "topics": [
         "awesome",
         "awesome-list",
