@@ -19,7 +19,7 @@
             "open_issues": 290,
             "owner": "unicode-org",
             "repo": "cldr",
-            "stars": 1174,
+            "stars": 1173,
             "topics": [
               "cldr",
               "unicode"
@@ -168,7 +168,7 @@
             "open_issues": 109,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47717,
+            "stars": 47716,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -186,7 +186,7 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2022-07-01T15:20:50Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "jagracey",
             "repo": "Awesome-Unicode",
             "stars": 989,
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:44:44.061Z",
+    "last_updated": "2026-11-14T22:37:43.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27857,
+      "stars": 27859,
       "topics": [
         "awesome",
         "awesome-list",
