@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T00:54:43Z",
-            "open_issues": 288,
+            "last_commit": "2026-11-18T23:52:45Z",
+            "open_issues": 290,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1173,
@@ -168,7 +168,7 @@
             "open_issues": 109,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47719,
+            "stars": 47722,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -252,11 +252,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T12:40:22Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-18T10:19:24Z",
+            "open_issues": 125,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18356,
+            "stars": 18359,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -273,11 +273,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T12:40:22Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-18T10:19:24Z",
+            "open_issues": 125,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18356,
+            "stars": 18359,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:03:49.721Z",
+    "last_updated": "2026-11-19T00:35:26.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
