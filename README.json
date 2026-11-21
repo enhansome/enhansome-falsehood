@@ -39,8 +39,8 @@
             "id": 32118519,
             "language": "PHP",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-05T17:06:27Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-21T19:59:00Z",
+            "open_issues": 6,
             "owner": "globalcitizen",
             "repo": "php-iban",
             "stars": 510,
@@ -168,7 +168,7 @@
             "open_issues": 109,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47721,
+            "stars": 47720,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18358,
+            "stars": 18359,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18358,
+            "stars": 18359,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:03:52.438Z",
+    "last_updated": "2026-11-21T23:29:52.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27880,
+      "stars": 27881,
       "topics": [
         "awesome",
         "awesome-list",
