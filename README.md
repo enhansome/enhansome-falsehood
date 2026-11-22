@@ -28,7 +28,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,519 | 🐛 103 | 📅 2026-09-02 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,096 | 🐛 103 | 📅 2026-09-02 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
 
 E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
@@ -196,8 +196,8 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Phone Numbers
 
-* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,359 | 🐛 124 | 🌐 C++ | 📅 2026-11-19 - Covers phone numbers, their representation and meaning.
-* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,359 | 🐛 124 | 🌐 C++ | 📅 2026-11-19 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 928 | 🐛 11 | 🌐 C# | 📅 2026-11-21, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,383 | 🐛 0 | 🌐 Objective-C | 📅 2026-11-13, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,781 | 🐛 10 | 🌐 Python | 📅 2026-11-20 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,074 | 🐛 3 | 🌐 PHP | 📅 2026-11-20.
+* [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 18,361 | 🐛 124 | 🌐 C++ | 📅 2026-11-19 - Covers phone numbers, their representation and meaning.
+* [`libphonenumber`](https://github.com/google/libphonenumber) ⭐ 18,361 | 🐛 124 | 🌐 C++ | 📅 2026-11-19 - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 928 | 🐛 6 | 🌐 C# | 📅 2026-11-22, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,383 | 🐛 0 | 🌐 Objective-C | 📅 2026-11-22, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,781 | 🐛 10 | 🌐 Python | 📅 2026-11-20 and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,074 | 🐛 3 | 🌐 PHP | 📅 2026-11-20.
 
 ## Postal Addresses
 
@@ -291,4 +291,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
