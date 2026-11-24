@@ -16,7 +16,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T04:10:25Z",
-            "open_issues": 290,
+            "open_issues": 292,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1172,
@@ -168,7 +168,7 @@
             "open_issues": 109,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47720,
+            "stars": 47718,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18361,
+            "stars": 18363,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -277,7 +277,7 @@
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18361,
+            "stars": 18363,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -370,8 +370,8 @@
             "id": 128726638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T04:59:41Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-23T04:25:42Z",
+            "open_issues": 0,
             "owner": "Boostport",
             "repo": "address",
             "stars": 97,
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T23:41:21.675Z",
+    "last_updated": "2026-11-24T03:59:37.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -453,11 +453,11 @@
       "id": 67687706,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-16T12:58:27Z",
+      "last_commit": "2026-11-23T15:00:17Z",
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27885,
+      "stars": 27887,
       "topics": [
         "awesome",
         "awesome-list",
