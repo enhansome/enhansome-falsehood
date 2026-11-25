@@ -15,8 +15,8 @@
             "id": 103948672,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T04:10:25Z",
-            "open_issues": 292,
+            "last_commit": "2026-11-24T23:40:33Z",
+            "open_issues": 291,
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1172,
@@ -98,7 +98,7 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T18:34:35Z",
+            "last_commit": "2026-11-24T20:17:19Z",
             "open_issues": 16,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
@@ -252,11 +252,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:32:13Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-24T09:57:22Z",
+            "open_issues": 123,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18363,
+            "stars": 18365,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -273,11 +273,11 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:32:13Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-24T09:57:22Z",
+            "open_issues": 123,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18363,
+            "stars": 18365,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:51.323Z"
@@ -370,8 +370,8 @@
             "id": 128726638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T04:25:42Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-24T07:21:03Z",
+            "open_issues": 1,
             "owner": "Boostport",
             "repo": "address",
             "stars": 97,
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:59:37.425Z",
+    "last_updated": "2026-11-25T02:39:39.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "😱 Falsehoods Programmers Believe in",
@@ -457,7 +457,7 @@
       "open_issues": 4,
       "owner": "kdeldycke",
       "repo": "awesome-falsehood",
-      "stars": 27887,
+      "stars": 27889,
       "topics": [
         "awesome",
         "awesome-list",
